@@ -1,0 +1,19 @@
+{
+  "name": "azurefunc",
+  "version": "1.0.0",
+  "description": "its a demo of azure functions in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsp1yush/azurefunc.git"
+  },
+  "author": "piyush",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/itsp1yush/azurefunc/issues"
+  },
+  "homepage": "https://github.com/itsp1yush/azurefunc#readme"
+}
